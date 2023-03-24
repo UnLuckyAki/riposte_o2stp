@@ -1,0 +1,11 @@
+.cell {
+    min-height: 100px;
+    width: 50%;
+    border-radius: 25px;
+    border: 6px solid #7922CC;
+    background-color: powderblue;
+    padding: 10px;
+  }
+.row {
+    display: flex;
+}
